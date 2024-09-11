@@ -1,0 +1,27 @@
+{
+  "name": "corytech/php-phone-validator",
+  "type": "library",
+  "description": "Php phone validator for symfony applications",
+  "keywords": ["phone-validator"],
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "ext-bcmath": "*",
+    "giggsey/libphonenumber-for-php": "^8.13"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3.49",
+    "phpunit/phpunit": "^10.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Corytech\\PhoneValidator\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Corytech\\PhoneValidator\\Tests\\": "tests/"
+    }
+  },
+  "minimum-stability": "dev"
+}
