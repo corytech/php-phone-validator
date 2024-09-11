@@ -6,7 +6,6 @@
   "license": "MIT",
   "require": {
     "php": ">=8.2",
-    "ext-bcmath": "*",
     "giggsey/libphonenumber-for-php": "^8.13"
   },
   "require-dev": {
