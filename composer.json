@@ -22,5 +22,5 @@
       "Corytech\\PhoneValidator\\Tests\\": "tests/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
