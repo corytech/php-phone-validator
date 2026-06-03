@@ -5,7 +5,7 @@
   "keywords": ["phone-validator"],
   "license": "MIT",
   "require": {
-    "php": ">=8.2",
+    "php": ">=8.5",
     "giggsey/libphonenumber-for-php": "^9.0"
   },
   "require-dev": {
