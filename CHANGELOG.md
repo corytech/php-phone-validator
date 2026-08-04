@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/corytech/php-phone-validator/compare/v1.0.3...v1.0.4) (2026-08-04)
+
+
+### 🧰 Maintenance
+
+* **CPD-8393:** Pin external actions with SHA ([c9acb33](https://github.com/corytech/php-phone-validator/commit/c9acb33ffbec061bd9f0a21187f9f3e62b78c895))
+* **CPD-8393:** Pin external actions with SHA ([b3f39e5](https://github.com/corytech/php-phone-validator/commit/b3f39e50e53224fc41f5af3939668b3ace0d5c99))
+
 ## [1.0.3](https://github.com/corytech/php-phone-validator/compare/v1.0.2...v1.0.3) (2026-06-03)
 
 
